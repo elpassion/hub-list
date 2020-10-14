@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Task
+
+- [ ] Download a list of issues from Github API: https://developer.github.com/v3/ and display them in a list. Use facebook/react as the repository from which you will get the issues.
+- [ ] Mark the issues that have more than 10 comments with different styling.
+- [ ] Add filters that when button is pressed will show only issues which states are: "open", "closed", "all"
+
 ## Available Scripts
 
 In the project directory, you can run:
